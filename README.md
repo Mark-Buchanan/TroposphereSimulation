@@ -1,4 +1,4 @@
-# TroposphereSimulation
+# Troposphere Simulation
 Idealized simulation of the Earth's troposphere using the Monte Carlo method (metropolis algorithm).
 
 Simulation parameters editable starting at line ~30 and the random number generator can be chosen
